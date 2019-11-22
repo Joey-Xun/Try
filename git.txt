@@ -1,23 +1,6 @@
 Git is a distri version control system.
-Git is free software.
-sss
-switch to dev
-dev
-aaaa
-abcdefg
-aoe
-there is dec
-dev new
-try a new
-first dec
-no ff
-really no ff
-andje
-ddddddddddddddd
-adscdsfdsa
-123456
-789456122
-devcde
+1234567
+478
+123
+455555
 ddddd
-ttttttttt
-12345678910
