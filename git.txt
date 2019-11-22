@@ -2,8 +2,4 @@ Git is a distri version control system.
 Git is free software.
 sss
 switch to dev
-<<<<<<< HEAD
-master
-=======
-master
->>>>>>> dev
+dev
